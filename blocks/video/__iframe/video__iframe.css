@@ -1,6 +1,7 @@
 .video__iframe {
     position: relative;
     bottom: -25px;
+    border: none;
 }
   
 .video__iframe:first-child {
