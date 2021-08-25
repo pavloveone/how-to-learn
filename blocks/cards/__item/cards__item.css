@@ -1,0 +1,21 @@
+.cards__item {
+    width: 240px;
+    display: flex;
+    flex-direction: column;
+}
+  
+.cards__item:nth-child(1) {
+    padding-right: 100px;
+}
+  
+.cards__item:nth-child(2) {
+    padding-right: 100px;
+}
+  
+.cards__item:nth-child(4) {
+    padding-right: 100px;
+}
+  
+.cards__item:nth-child(5) {
+    padding-right: 100px;
+}

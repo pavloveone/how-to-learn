@@ -1,0 +1,8 @@
+.video__iframe {
+    position: relative;
+    bottom: -25px;
+}
+  
+.video__iframe:first-child {
+    padding-right: 20px;
+}

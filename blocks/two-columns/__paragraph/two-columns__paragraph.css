@@ -1,0 +1,4 @@
+.two-columns__paragraph:nth-child(2n) {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
